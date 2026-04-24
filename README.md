@@ -3,14 +3,14 @@
 ## 📂 Folder Structure
 
 ```
-Fugaku_experiments/
-├── Allgather/
+CHIARA/
+├── allgather/
 │   ├── all_gather_radix_batch.cpp
 │   └── main.cpp
-├── Allreduce/
+├── allreduce/
 │   ├── all_reduce_radix_batch.cpp
 │   └── main.cpp
-├── Reduce-scatter/
+├── reduce-scatter/
 │   ├── reduce_scatter_radix_batch.cpp
 │   └── main.cpp
 └── README.md
